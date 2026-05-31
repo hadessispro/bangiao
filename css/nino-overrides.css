@@ -2252,5 +2252,6 @@ html, body, .page-container, .transition-body, #MainContent, .shopify-section, .
 /* --- NINO BUGFIX MOBILE TYPOGRAPHY --- */
 @media only screen and (max-width: 768px) {
   .meet-nino-huber { font-size: 32px !important; }
+  .index-section, .frame, .promo-grid__container { padding-top: 40px !important; padding-bottom: 40px !important; }
 }
 /* --- END NINO BUGFIX --- */
